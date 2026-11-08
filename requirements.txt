@@ -1,0 +1,12 @@
+torch>=2.2
+transformers>=4.44
+datasets>=2.19
+sentencepiece
+rouge-score
+huggingface_hub
+pyarrow
+numpy
+scipy
+scikit-learn
+matplotlib
+pillow
